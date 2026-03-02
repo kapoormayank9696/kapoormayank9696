@@ -24,5 +24,5 @@ B.Tech CSE student at IP University<br><br>Backend is strong<br><br>🤝 I’m l
 ---
 [![](https://visitcount.itsvg.in/api?id=kapoormayank9696&icon=0&color=0)](https://visitcount.itsvg.in)
 
-           ### Thank you for visiting my profile!
-          I appreciate your support and feedback!
+### Thank you for visiting my profile!
+I appreciate your support and feedback!
