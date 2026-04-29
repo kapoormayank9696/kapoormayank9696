@@ -1,4 +1,8 @@
 # 💫 About Me:
+[![Java](https://img.shields.io/badge/Java-17+-blue)](https://www.oracle.com/java/)
+[![MySQL](https://img.shields.io/badge/MySQL-8+-green)](https://www.mysql.com/)
+[![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
+
 B.Tech CSE student at IP University<br><br>Backend is strong<br><br>🤝 I’m looking for help with<br><br>Mentorship in Spring Boot & full-stack project development.<br>Guidance on advanced Java topics, design patterns, and system design.<br>Competitive programming strategies for LeetCode/DSA.<br>Learning professional team workflows with Git & GitHub.<br><br>🌱 I’m currently learning<br><br>Spring Boot Security, Microservices, and REST API optimization.<br>Multi-threading & concurrency in Java.<br>Open-source contribution workflows and collaboration.<br><br>💬 Ask me about<br><br>Java, J2EE, JDBC, MySQL<br>Data Structures & Algorithms, LeetCode solutions<br>Project building with Java & Spring Boot<br><br>⚡ Fun fact<br><br>I love solving coding challenges and building practical projects combining backend, database, and frontend concepts.<br><br>I have already completed two(2) J2EE projects and  4 Projects Of JDBC(Java Data Base Connectivity) enjoy making real-world applications.
 
 
