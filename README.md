@@ -22,10 +22,10 @@ And Start Spring Boot Projects Making.
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kapoormayank9696&theme=shadow_green&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kapoormayank9696&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
 ---
@@ -35,3 +35,9 @@ And Start Spring Boot Projects Making.
 
 # Thank you for visiting my profile!
 I appreciate your support and feedback!
+
+---
+
+# 🚀 Happy Coding!
+
+---
